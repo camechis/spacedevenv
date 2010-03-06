@@ -1,0 +1,17 @@
+admin-email = root@localhost
+ssl-set-org = Spacewalk Org
+ssl-set-org-unit = spacewalk
+ssl-set-city = Space City
+ssl-set-state = Space State
+ssl-set-country = US
+ssl-password = spacewalk
+ssl-set-email = root@localhost
+ssl-config-sslvhost = Y
+db-backend=oracle
+db-user=spacewalk
+db-password=spacewalk
+db-sid=xe
+db-host=localhost
+db-port=1521
+db-protocol=TCP
+enable-tftp=Y
